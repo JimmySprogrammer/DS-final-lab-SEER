@@ -1,0 +1,16 @@
+#bash ./scripts/parameter/ETTh2/experts.sh
+#bash ./scripts/parameter/ETTh2/length.sh
+#bash ./scripts/parameter/ETTh2/ratio.sh
+#bash ./scripts/parameter/ETTh2/score.sh
+#bash ./scripts/parameter/ETTm2/experts.sh
+#bash ./scripts/parameter/ETTm2/length.sh
+#bash ./scripts/parameter/ETTm2/ratio.sh
+#bash ./scripts/parameter/ETTm2/score.sh
+#bash ./scripts/parameter/Solar/experts.sh
+#bash ./scripts/parameter/Solar/length.sh
+#bash ./scripts/parameter/Solar/ratio.sh
+#bash ./scripts/parameter/Solar/score.sh
+bash ./scripts/parameter/Weather/experts.sh
+bash ./scripts/parameter/Weather/length.sh
+bash ./scripts/parameter/Weather/ratio.sh
+bash ./scripts/parameter/Weather/score.sh
